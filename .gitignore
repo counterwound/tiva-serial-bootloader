@@ -1,3 +1,9 @@
+# General
+.DS_Store
+*.zip
+*.raw
+*.log
+
 # Object files
 *.o
 *.ko
@@ -30,3 +36,9 @@
 
 # Debug files
 *.dSYM/
+
+# Code Composer
+.settings
+.launches
+Debug
+targetConfigs
